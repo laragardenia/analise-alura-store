@@ -42,7 +42,7 @@ O projeto foi construído para ser executado no ambiente Google Colab. Para repr
 
 Com base na matriz de eficiência, a recomendação final foi a **venda da Loja 4**. Apesar de possuir o frete mais barato (R$ 31.28), a unidade apresentou o menor faturamento da rede (R$ 1,384,497.58), indicando uma falha crítica na conversão de vendas.
 
-## 👨‍💻 Autor
+## 👩‍💻 Autora
 
 Desenvolvido por **Lara Gardenia Alves Rodrigues**.
 
